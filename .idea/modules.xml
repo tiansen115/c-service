@@ -3,11 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app-customer-first/app-customer-first.iml" filepath="$PROJECT_DIR$/app-customer-first/app-customer-first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-customer-login/app-customer-login.iml" filepath="$PROJECT_DIR$/app-customer-login/app-customer-login.iml" />
       <module fileurl="file://$PROJECT_DIR$/app-server-first/app-server-first.iml" filepath="$PROJECT_DIR$/app-server-first/app-server-first.iml" />
       <module fileurl="file://$PROJECT_DIR$/app-server-second/app-server-second.iml" filepath="$PROJECT_DIR$/app-server-second/app-server-second.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authorization-server/authorization-server.iml" filepath="$PROJECT_DIR$/authorization-server/authorization-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/c-service.iml" filepath="$PROJECT_DIR$/.idea/c-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-bus-client/config-bus-client.iml" filepath="$PROJECT_DIR$/config-bus-client/config-bus-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-bus-server/config-bus-server.iml" filepath="$PROJECT_DIR$/config-bus-server/config-bus-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-server/gateway-server.iml" filepath="$PROJECT_DIR$/gateway-server/gateway-server.iml" />
     </modules>
   </component>
 </project>

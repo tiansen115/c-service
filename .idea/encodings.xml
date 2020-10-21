@@ -2,9 +2,13 @@
 <project version="4">
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$/app-customer-first" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app-customer-login" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app-server-first" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app-server-second" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/authorization-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-bus-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config-bus-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-server" charset="UTF-8" />
   </component>
 </project>

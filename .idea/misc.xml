@@ -11,6 +11,10 @@
         <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/app-server-first/pom.xml" />
         <option value="$PROJECT_DIR$/config-bus-server/pom.xml" />
+        <option value="$PROJECT_DIR$/config-bus-client/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway-server/pom.xml" />
+        <option value="$PROJECT_DIR$/authorization-server/pom.xml" />
+        <option value="$PROJECT_DIR$/app-customer-login/pom.xml" />
       </list>
     </option>
   </component>
